@@ -1,0 +1,4 @@
+Bundle-Name: ip-process-event-mvc-web
+Bundle-SymbolicName: ip-process-event-mvc-web
+Bundle-Version: 1.0.0
+Export-Package: com.khalibre.process.event.mvc.web.constants
