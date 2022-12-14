@@ -1,4 +1,0 @@
-Bundle-Name: ip-publish-event-mvc-web
-Bundle-SymbolicName: ip-publish-event-mvc-web
-Bundle-Version: 1.0.0
-Export-Package: com.khalibre.publish.event.mvc.web.constants
