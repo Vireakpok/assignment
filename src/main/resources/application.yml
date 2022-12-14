@@ -1,9 +1,11 @@
 server:
   port: 8080
 spring:
-  profiles:
-    active:
-      - ${SPRING_PROFILES_ACTIVE:@activatedProperties@}
+  application:
+    name: application
+#  profiles:
+#    active:
+#      - ${SPRING_PROFILES_ACTIVE:@activatedProperties@}
   datasource:
     url: jdbc:postgresql://localhost:5433/postgres
     username: postgres
